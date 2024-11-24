@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gitmember883/Rishab.
-- 👀 I’m interested in Sports/robotics/coding in python,java,vs code etc.. ^-^
+- 👀 I’m interested in robotics/coding programs like- Java,Python,etc...^-^
 - 🌱 I’m currently learning how to make a game and website using c++,Java and python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my LinkedIn profile-Rishab Mishra
